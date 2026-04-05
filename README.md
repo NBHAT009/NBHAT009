@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Nagaraj Bhat
 
-<!--
-**NBHAT009/NBHAT009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🏦 5 years of experience in Financial Industry Operations
+- 💡 Developing coding solutions to automate and optimize ops workflows
+- 🔧 Hands-on experience building tools that solve real business problems
+- 💼 Passionate about bridging the gap between finance and technology
+- 🌱 Expanding my tech skills with Git, GitHub & software development
 
-Here are some ideas to get you started:
+## My Skills
+- 📊 Financial Operations & Process Management
+- 🤖 Building automation tools for operational efficiency
+- 🔍 Data analysis and process optimization
+- 💻 Developing practical coding solutions for business problems
+- 🌐 Git & GitHub version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- I identify inefficiencies in financial operations
+- I build coding solutions that save time and reduce errors
+- I translate complex business problems into technical solutions
+
+## My Goals
+- 🚀 Build powerful tools for the financial operations industry
+- 🌍 Share solutions that help ops professionals work smarter
+- 🤝 Collaborate with like minded finance and tech professionals
